@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-##将图片批量用NIC处理，把结果存在一个text文件中
-##接下来的任务是处理成文字形式
-##然后存成TF-record
 
 import os
 
